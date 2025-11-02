@@ -4,7 +4,7 @@ A responsive e-commerce product listing page built with React.js, featuring filt
 
 ## 🚀 Live Demo
 
-[View Live Demo on Vercel](https://your-netlify-url.netlify.app) (Replace with actual URL after deployment)
+[View Live Demo on Vercel](https://appscrip-task-lekkala-ganesh.vercel.app/)
 
 ## 📋 Features
 
